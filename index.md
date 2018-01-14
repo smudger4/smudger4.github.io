@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nick Smith's Plugins
+title: Nick's Plugins
 ---
 
 These plugins are ones I have written to extend the [Indigo Domotics Indigo](http://www.indigodomo.com/index.html) Mac home automation application to support external devices and services. Indigo Domotics provide a [Plugin Store](http://www.indigodomo.com/pluginstore/) to collate all of the publically available plugins.
